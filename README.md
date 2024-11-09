@@ -43,6 +43,5 @@ within a team.
   See my [Codecademy Profile](https://www.codecademy.com/profiles/theoliverlear)
 ## 📫 Let's Connect!
 
-- **GitHub**: [github.com/theoliverlear](https://github.com/theoliverlear)
 - **LinkedIn**: [linkedin.com/in/oliver-sigwarth](https://www.linkedin.com/in/oliver-sigwarth/)
 - **Email**: [sigwartholiver2@gmail.com](mailto:sigwartholiver2@gmail.com)
