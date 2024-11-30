@@ -18,9 +18,9 @@ to optimize market performance.
 ## 🛠️ Technical Skills
 
 - **Languages with Experience**: Java, TypeScript, SCSS
-- **Additional Languages**: Python, C, C++, C#, PHP, Assembly
+- **Additional Languages**: Python, C, C++, Assembly
 - **Frameworks**: Spring Boot, Angular, React
-- **Tools**: ORM, SQL, Git, GitHub, Linux, OpenAI API, Raspberry Pi
+- **Tools**: ORM, SQL, Git, GitHub, Linux, OpenAI API, Raspberry Pi, Regex
 - **Cloud Services**: AWS, Azure, Google Cloud
 - **Databases**: MySQL, H2, PostgreSQL, MongoDB
 
