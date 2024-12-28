@@ -39,7 +39,7 @@ within a team.
 - **Bachelor of Science in Computer Science**  
   University of Wisconsin - River Falls  
   *Expected Graduation: May 2025*
-- **Codecademy: 18+ Certifications**  
+- **Codecademy: 19+ Certifications**  
   See my [Codecademy Profile](https://www.codecademy.com/profiles/theoliverlear)
 ## 📫 Let's Connect!
 
