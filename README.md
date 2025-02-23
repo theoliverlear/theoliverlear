@@ -17,17 +17,17 @@ to optimize market performance.
 
 ## 🛠️ Technical Skills
 
-- **Languages with Experience**: Java, TypeScript, SCSS
-- **Additional Languages**: Python, C, C++, Assembly
+- **Languages with Deep Experience**: Java, TypeScript, SCSS
+- **Additionally Used Languages**: Python, SQL, C, C++, HTML, JavaScript, CSS
 - **Frameworks**: Spring Boot, Angular, React
-- **Tools**: ORM, SQL, Git, GitHub, Linux, OpenAI API, Raspberry Pi, Regex
+- **Tools**: ORM, SQL, Git/GitHub, Linux, OpenAI API, Raspberry Pi, Regex
 - **Cloud Services**: AWS, Azure, Google Cloud
-- **Databases**: MySQL, H2, PostgreSQL, MongoDB
+- **Databases**: PostgreSQL, MySQL, H2, MongoDB
 
 ## 💼 Founder of The UWRF Development Team
 
 As the founder and leader of **The UWRF Development Team** within the local 
-chapter of the Association of Computing Machinery (ACM), I guide a team of 
+chapter of the Association for Computing Machinery (ACM), I guide a team of 
 students in building open-source software. I created the Dev Team to address a
 critical skill gap I observed through industry conversations: the importance
 of effective teamwork. My vision for the Dev Team emphasizes that successful
