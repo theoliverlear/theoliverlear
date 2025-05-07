@@ -19,7 +19,7 @@ to optimize market performance.
 
 - **Languages with Deep Experience**: Java, TypeScript, SCSS
 - **Additionally Used Languages**: Python, SQL, C, C++, HTML, CSS, JavaScript
-- **Frameworks**: Spring Boot, Angular, React
+- **Frameworks**: Spring Boot, Angular, React, Django
 - **Tools**: ORM, SQL, Git/GitHub, Linux, OpenAI API, Raspberry Pi, Regex
 - **Cloud Services**: AWS, Azure, Google Cloud
 - **Databases**: PostgreSQL, MySQL, H2, MongoDB
@@ -38,8 +38,8 @@ within a team.
 
 - **Bachelor of Science in Computer Science**  
   University of Wisconsin - River Falls  
-  *Expected Graduation: May 2025*
-- **Codecademy: 19+ Certifications**  
+  *Graduated: May 2025*
+- **Codecademy: 20+ Certifications**  
   See my [Codecademy Profile](https://www.codecademy.com/profiles/theoliverlear)
 ## 📫 Let's Connect!
 
