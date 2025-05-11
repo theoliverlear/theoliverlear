@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Oliver Lear Sigwarth
 
-I'm an enthusiastic **Java programmer** and **full-stack developer** currently
-pursuing a **Computer Science degree at the University of Wisconsin - River
-Falls**. My passion is to make well-written apps that help people and do so
-with teamwork and collaboration.
+I'm an enthusiastic **software engineer** and **full-stack developer** with a
+**Bachelor of Science in Computer Science from the University of Wisconsin -
+River Falls**. My passion is to make well-written apps that help people and do
+so with teamwork and collaboration.
 
 ## 🌟 Key Projects
 
