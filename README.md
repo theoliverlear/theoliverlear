@@ -7,13 +7,13 @@ so with teamwork and collaboration.
 
 ## 🌟 Key Projects
 
+- **[Crypto Trader](https://github.com/theoliverlear/Crypto-Trader)**: A
+  Java-based cryptocurrency trading application utilizing algorithmic strategies
+  to optimize market performance.
+
 - **[Script Social](https://github.com/theoliverlear/Script-Social)**: A 
 developer-centric social media and collaboration platform integrating GitHub
 to facilitate seamless teamwork and version control.
-
-- **[Crypto Trader](https://github.com/theoliverlear/Crypto-Trader)**: A 
-Java-based cryptocurrency trading application utilizing algorithmic strategies
-to optimize market performance.
 
 ## 🛠️ Technical Skills
 
