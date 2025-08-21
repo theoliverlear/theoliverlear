@@ -19,7 +19,7 @@ to facilitate seamless teamwork and version control.
 
 - **Languages with Deep Experience**: Java, TypeScript, SCSS
 - **Additionally Used Languages**: Python, SQL, C, C++, C#, HTML, CSS, JavaScript, Go
-- **Frameworks**: Spring Boot, Angular, React, Django, .NET
+- **Frameworks**: Spring Boot, Angular, React, Django, .NET, JavaFX, JUnit, Jest
 - **Tools**: ORM, SQL, Git/GitHub, Linux, OpenAI API, Raspberry Pi, Regex
 - **Cloud Services**: AWS, Azure, Google Cloud
 - **Databases**: PostgreSQL, MySQL, H2, MongoDB
