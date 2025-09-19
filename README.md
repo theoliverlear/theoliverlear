@@ -46,7 +46,7 @@ Some highlights:
   with Gradle.
 - ☁️ **Cloud integration** with AWS for deployment, security, and user
   authentication.
-- 🧩 **Published 30+ open-source packages** on PyPI, npm, and Maven as part 
+- 🧩 **Published 40+ open-source packages** on PyPI, npm, and Maven as part 
    of its module architecture.
 
 
